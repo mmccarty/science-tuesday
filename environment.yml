@@ -1,0 +1,14 @@
+name: science-tuesday
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - coiled
+  - dask
+  - dask-ml
+  - distributed
+  - numpy
+  - pandas
+  - scikit-learn
+  - xgboost
