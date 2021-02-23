@@ -9,6 +9,7 @@ dependencies:
   - dask-ml
   - distributed
   - numpy
+  - optuna
   - pandas
   - scikit-learn
   - xgboost
